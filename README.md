@@ -1,6 +1,6 @@
 # to_do_list
 
-A new Flutter project.
+The application receives tasks from the user and lists them.
 
 ## Getting Started
 
